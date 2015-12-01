@@ -1,4 +1,4 @@
-
+#Запуск
 cabal install --enable-tests
 cabal build
 cabal test
